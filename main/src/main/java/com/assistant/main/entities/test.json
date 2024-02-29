@@ -1,0 +1,30 @@
+{
+  "id": 3825714,
+  "competitionId": 7,
+  "stageNum": 1,
+  "roundNum": 26,
+  "competitionDisplayName": "Campeonato Inglês",
+  "startTime": "2024-02-26T20:00:00+00:00",
+  "statusText": "Programação",
+  "homeCompetitor": {
+    "id": 113,
+    "countryId": 1,
+    "sportId": 1,
+    "name": "West Ham",
+    "longName": "West Ham Utd",
+    "score": -1.0,
+  },
+  "awayCompetitor": {
+    "id": 63,
+    "countryId": 1,
+    "sportId": 1,
+    "name": "Brentford",
+    "symbolicName": "BRE",
+    "score": -1.0
+  },
+  "venue": {
+    "id": 6056,
+    "name": "London Stadium",
+    "shortName": "london-stadium"
+  }
+}
